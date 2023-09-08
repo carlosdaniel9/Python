@@ -1,5 +1,5 @@
 from math import trunc  # importando a função trunc da biblioteca math
 num = float(input('Digite um némero'))
 # usando o trunc para deixa o numero inteiro 
-# op trunc elimina todos os numeros depois do ponto .
+# o trunc elimina todos os numeros depois do ponto .
 print('Você digitou {}, ele inteiro é {}'.format(num,  trunc(num)))
