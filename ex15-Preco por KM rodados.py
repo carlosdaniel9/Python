@@ -12,3 +12,5 @@ print('Você ficou {} dias, com o carro e rodou {} KM, que da R${:.2f} no total'
 
 
 # carlos daniel   01/09/2023
+
+# atualizando usando guit
