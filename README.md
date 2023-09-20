@@ -4,4 +4,4 @@ usando git
 
 atualizando via terminal git
 
-teste de pull
+teste de pull no mac
