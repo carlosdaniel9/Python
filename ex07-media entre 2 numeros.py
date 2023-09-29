@@ -5,3 +5,6 @@ media = (n1 + n2) / 2 # aqui esta somando os valores da variavel, de dividindo p
 
 print('A média entre {:.1f}, e {:.1f} é {:.1f}'.format(n1, n2, media))
 # :.1f, está dizendo que depois do ponto flutuante, coloque apenas 1 digite(1 casa decimas)
+
+
+# carlos daniel  26/08/2023

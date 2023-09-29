@@ -15,3 +15,6 @@ if resultado2 == 0:
     print('O número {} é par'.format(num))
 else:
     print('O número {} é impar'.format(num))
+
+
+# carlos daniel    28/09/2023

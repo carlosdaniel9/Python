@@ -6,3 +6,6 @@ susesor = num1 +1      # a var susesor , pega o valor de num, e soma com 1
 
 # printando no terminal as variaveis, usandoo .format  | o \n serve para da quebra de linha.
 print('analisando o numero {}, \n seu susessor é {}, \n seu antesessor é {}'.format(num1,antesesor,susesor))
+
+
+# carlos daniel  26/08/2023

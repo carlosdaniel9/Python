@@ -10,3 +10,6 @@ else:
     print('Você ultrapassou o limite de velocidade')
     print('{}MUlTADO, você deve pagar R${:.2f}{}'.format(cores['vermelho'], cal, cores['fechamento']))
     # a primeira {}, está recebendo cores['vermelho'] a segunda {} é a variavel, e a terceira {} a cores['fechamento']
+
+
+    # carlos daniel    28/09/2023

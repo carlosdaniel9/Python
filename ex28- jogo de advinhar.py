@@ -14,3 +14,7 @@ if num2 == num: # se o número digitado pelo usuario for igual o num, regardo pe
 else:
     print('\33[31mVocê não acertou!')
     print('Seu número foi {}, e o gerado pelo computador foi {}'.format(num2, num))
+
+
+
+# carlos daniel    28/09/2023

@@ -11,6 +11,4 @@ resultado = (dias * valor_dia) + km * valor_km
 print('Você ficou {} dias, com o carro e rodou {} KM, que da R${:.2f} no total'.format(dias, km, resultado))
 
 
-# carlos daniel   01/09/2023
-
-# atualizando usando guit
+# carlos daniel   31/08/2023

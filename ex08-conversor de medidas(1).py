@@ -8,3 +8,6 @@ mm = medida * 1000  # pegando o valor de medida e multiplicando por 1000
 
 print('A medida em metros é {} \n Em centimetros é {} \n Em milimetros é {}'.format(medida, cm, mm))
 # printado o valores, o \n serve para da quebra de linha.+
+
+
+# carlos daniel  26/08/2023

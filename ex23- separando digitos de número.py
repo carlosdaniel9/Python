@@ -9,3 +9,7 @@ print('{} unidade'.format(u))
 print('{} dezenas'.format(d))
 print('{} centenas'.format(c))
 print('{} milhar'.format(m))
+
+
+
+# carlos daniel  26/09/2023

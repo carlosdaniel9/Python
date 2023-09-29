@@ -9,3 +9,6 @@ print('{} x {} = {}'.format(num, 6, num*6))
 print('{} x {} = {}'.format(num, 7, num*7))
 print('{} x {} = {}'.format(num, 8, num*8))
 print('{} x {} = {}'.format(num, 9, num*9))
+
+
+# carlos daniel  26/08/2023

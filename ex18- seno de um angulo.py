@@ -7,3 +7,6 @@ cosseno = math.cos(math.radians(angulo))
 print('O angulo de {} tem o cosseno {:.2f}'.format(angulo, cosseno))
 tangente = math.tan(math.radians(angulo))
 print('O angulo de {} tem o tangente {:.2f}'.format(angulo, tangente))
+
+
+# carlos daniel  10/09/2023

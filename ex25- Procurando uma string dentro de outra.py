@@ -4,4 +4,4 @@ print('seu nome te silva: {}'.format('silva' in nome.lower()))
 
 
 
-# 26/09/2023
+# carlos daniel  26/09/2023

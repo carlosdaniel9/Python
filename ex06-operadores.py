@@ -8,3 +8,6 @@ print('O tripo de {} é {}'.format(num, num2))
 print('a raiz quadrada de {} é {:.2f}'.format(num, num3))
 
 #  na linha 8 na segunda chaves o :.2f vai colocar duas casas decimais após o .
+
+
+# carlos daniel  26/08/2023

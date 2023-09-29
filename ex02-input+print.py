@@ -10,4 +10,3 @@ print(f'Certo {nome}, você tem {idade} anos') # por fim, irar pintar o nome do 
 
 
 # carlos daniel 21/08/2023
-# curso de python do curso em videos.

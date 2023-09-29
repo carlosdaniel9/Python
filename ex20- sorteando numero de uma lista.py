@@ -8,3 +8,6 @@ lista = [n1, n2, n3, n4]
 shuffle(lista) # o shuffle embaralha a lista
 print('A ordem da lista será de forma aleatoria:')
 print(lista)
+
+
+# carlos daniel  20/09/2023

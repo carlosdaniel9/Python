@@ -5,3 +5,6 @@ mixer.music.play()
 print('Reproduzindo Smells Like Teen Spirit(nirvana)')
 input('Aperte enter para encerrar!')  # o input evita o código encerrar,  assim a musica irá tocar
 event.wait()
+
+
+# carlos daniel  20/09/2023

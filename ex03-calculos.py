@@ -14,4 +14,3 @@ print('A soma de {} e {} é {}'.format(a, b, valor))
 
 
 # carlos daniel 21/08/2023
-# curso de python do curso em videos.

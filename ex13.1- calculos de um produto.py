@@ -16,3 +16,6 @@ acressio = tenis + (tenis * 8 / 100) # aumentando 8% de 300, o valor esta sendo 
 
 print('você pagando avista, o tênis de R${}, ira sair por R${}'.format(tenis, desconto))
 print('pagando a prazo o tênis de R${}, com aumento de 8%, irar sair por R${}'.format(tenis, acressio))
+
+
+# carlos daniel  30/08/2023
