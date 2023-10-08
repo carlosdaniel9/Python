@@ -1,1 +1,1 @@
-Esse curso está divido por mundos.
+Esse curso está dividido por mundos.
