@@ -1,5 +1,1 @@
-
-# python
-Primeiro passos em python
-
-
+Esse curso está divido por mundos.
