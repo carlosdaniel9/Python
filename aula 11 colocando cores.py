@@ -1,5 +1,5 @@
 # para colocar cores usa 
-# \33[0;32;45m  primeiro numero depois do [, é o estilo, depois, cor do texto e por fim cor do fundo, e finaliza com o  m 
+# \33[0;32;45m  primeiro numero depois do [, é o estilo, depois, cor do texto e por fim, cor do fundo, e finaliza com o  m 
 # para que a cor se encerrar em cada linha coloca \\33[m no final, mais dentro das aspas.
 # 1- estilo | 0- sem nada | 1- em negrito | 4- texto sublinhado | 7- inverte as cores de fundo e texto
 # 2- cor do texto | 30-branco | 31-vermelho | 32-verde | 33-amarelo | 34-azul | 35-rosa | 36-azul claro | 37-cinza
